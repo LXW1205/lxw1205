@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lee Xiu Wei, also called Victor. I'm an Computer_Science_Student specializing in Software Engineering. 
+My name is Lee Xiu Wei, also called Victor. I'm an Computer Science Student specializing in Software Engineering. 
 
 - 🔭 I’m currently looking to make a public transport application.
 - 🌱 I’m currently learning the in's and out's software design and the whole engineering lifecycle.
