@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lee Xiu Wei, also called Victor. I'm an Computer Science Student specializing in Software Engineering. 
+My name is Lee Xiu Wei, also called Victor. I'm an Computer Science Student specializing in Software Engineering. I'm passionate about learning new technologies and beautiful designs.
   
 ## 📫 Contact
 - Email: xiuwei1205@gmail.com
@@ -27,16 +27,14 @@ My name is Lee Xiu Wei, also called Victor. I'm an Computer Science Student spec
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🔬 Currently looking into
-- public transport application
-- a better pdf editor
-- aluminium cans showcase
+- Public transport application
+- A better pdf editor
+- 3D Aluminium cans showcase website
 
 ## 🌱 Currently Learning
-- software engineering lifecycle
-- opearating systems
-- computer networking
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LXW1205)](https://github.com/anuraghazra/github-readme-stats)
+- Software engineering lifecycle
+- Opearating systems
+- Computer networking
 
 ## 💡 How I Like to Build Software
 - Build things that actually solves a real problems
