@@ -32,11 +32,11 @@
 - 3D Aluminium cans showcase website
 
 ## 🌱 Currently Learning
-- Software engineering lifecycle
-- Opearating systems
-- Computer networking
+- Software Engineering Fundamentals
+- Operating Systems
+- Computer Networking
 
 ## 💡 How I Like to Build Software
-- Build things that actually solves a real problems
+- Build things that actually solve real world problems
 - Design a good looking UI UX that appeals to user
 - Understand the problem before writing code
