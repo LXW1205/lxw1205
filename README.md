@@ -29,16 +29,5 @@
 ![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 
 ## 🔬 Currently looking into
-- Public transport application
 - A better PDF Editor
-- 3D Aluminium cans showcase website
-
-## 🌱 Currently Learning
-- Software Engineering Fundamentals
-- Operating Systems
-- Computer Networking
-
-## 💡 How I Like to Build Software
-- Build things that actually solve real world problems
-- Design a good looking UI UX that appeals to user
-- Understand the problem before writing code
+- React 3D objects showcase website
