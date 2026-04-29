@@ -1,8 +1,16 @@
-## Hi, I'm Victor 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&width=435&lines=CS+Student+%40+MMU;Software+Engineer;Clean+code+and+UI+UX;Always+learning;Open+to+internships)](https://git.io/typing-svg)
+# Hi, I'm Victor 👋
 
-### My name is Lee Xiu Wei. I'm an Computer Science Student specializing in Software Engineering. I'm passionate about learning new technologies and beautiful designs.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+%40+MMU;Software+Engineer;Clean+code+and+UI+UX;Always+learning;Open+to+internships)](https://git.io/typing-svg)
+
+My name is Lee Xiu Wei. I'm an Computer Science Student specializing in Software Engineering. I'm passionate about learning new technologies and beautiful designs.
+
+</div>
+
+---
+
+[![Portfolio Preview](./assets/portfolio_website.gif)](https://lxw-resume.vercel.app/)
   
 ## 📫 Contact
 - Email: xiuwei1205@gmail.com
